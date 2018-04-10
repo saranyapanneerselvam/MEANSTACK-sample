@@ -1,0 +1,18 @@
+{
+ "name": "nodeFramework",
+ "main": "server.js",
+ "version": "1.0.0",
+ "engines": {
+  "node": "8.9.4"
+ },
+ "dependencies": {
+  "express": "^4.16.3",
+  "body-parser": "^1.18.2",
+  "bluebird": "~2.11.0",
+  "connect-mongo": "~2.0.1",
+  "mongoose": "~5.0.14",
+  "path": "^0.12.7",
+  "https": "^1.0.0",
+  "express-session": "^1.15.6"
+ }
+}
